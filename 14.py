@@ -48,15 +48,7 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-#FF69B4                                                             
-ad88888ba               88                                  
-d8"     "8b              88                                  
-Y8,                      88                                  
-`Y8aaaaa,    ,adPPYYba,  88   ,adPPYba,  88,dPYba,,adPYba,   
-  `"""""8b,  ""     `Y8  88  a8P_____88  88P'   "88"    "8a  
-        `8b  ,adPPPPP88  88  8PP"""""""  88      88      88  
-Y8a     a8P  88,    ,88  88  "8b,   ,aa  88      88      88  
- "Y88888P"   `"8bbdP"Y8  88   `"Ybbd8"'  88      88      88                                                            
+Salem                                                          
 """
 
 def tik():
